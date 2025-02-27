@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p29757-e1492689.adobeaemcloud.com/bin/franklin.delivery/ciechanowiec-ds/moniru/main"
+    url: "https://author-p29757-e1552805.adobeaemcloud.com/bin/franklin.delivery/ciechanowiec-ds/moniru/main"
     type: "markup"
     suffix: ".html"
